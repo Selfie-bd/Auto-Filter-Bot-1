@@ -7,20 +7,20 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/Auto-Filter-Bot?style=social">
+  <a href="https://github.com/selfie-bd/Auto-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/selfie-bd/Auto-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/MRK-YT/Auto-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/Auto-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/selfie-bd/Auto-Filter-Bot/fork">
+    <img src="https://img.shields.io/github/forks/selfie-bd/Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/MoTechYT-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Mo_Tech_YT)  
+[![Umlinks](https://img.shields.io/badge/Umlinks-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/umlinks)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MoTechYT](https://img.shields.io/badge/MoTech-Support-red?style=flat&logo=telegram)](https://telegram.dog/Mo_Tech_YT)  [![TroJanz](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=Youtube)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)  
+[![Dolby Cinema](https://img.shields.io/badge/Dolby-Cinema-red?style=flat&logo=telegram)](https://telegram.dog/Dolby_cinema)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 
 # Auto Filter Bot v1
@@ -35,13 +35,13 @@
 * Once deployed and bot is started, send a message to channel (must do step)
 * Bot will work now :)
 
-[![MoTechYT](https://img.shields.io/badge/Connect-Telegram-red?style=flat&logo=telegram)](https://telegram.dog/Mrk_yt)
+[![umlinks](https://img.shields.io/badge/Connect-Telegram-red?style=flat&logo=telegram)](https://telegram.dog/umlinks)
 
 
 ## Deploy
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/selfie-bd/Auto-Filter-Bot)
 
 
 
@@ -61,4 +61,4 @@ Use This Link     :- [Click Here](https://repl.it/@prgofficial/String-Gen) 👈 
 
 [Click here to see tutorial video](https://youtu.be/d_oX4b7ucWM)
 
-Thanks to [MoTectYT](https://telegram.dog/MO_TECH_YT) and [MRK YT](https://telegram.dog/MRK_YT) for the video
+Thanks to [umlinks](https://telegram.dog/umlinks) and [umlinks](https://telegram.dog/umlinks) for the video
