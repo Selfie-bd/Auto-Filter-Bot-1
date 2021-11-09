@@ -1,7 +1,7 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {} I Am @Dolby_Cinema Auto Filter Bot 🤖
+    START_MSG = """ <b>Hi {} I Am @flimrequest Auto Filter Bot 🤖
 
 For info click <i>help</i></b>"""
 
