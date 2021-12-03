@@ -8,9 +8,9 @@
         "Telegram Bot",
         "MoTechYT"
     ],
-    "website": "https://github.com/MRK-YT/",
-    "repository": "https://github.com/MRK-YT/Auto-Filter-Bot",
-    "success_url": "https://telegram.dog/Mo_Tech_YT",
+    "website": "https://github.com/selfiebd/",
+    "repository": "https://github.com/selfie-bd/Auto-Filter-Bot-1",
+    "success_url": "https://telegram.dog/groupdc",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
