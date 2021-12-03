@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "● JOIN OUR CHANNEL ●", url="https://t.me/umlinks")
+                            "● JOIN OUR CHANNEL ●", url="https://t.me/ThiruttuRockers4k")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "●SUPPORT●", url="https://t.me/umlinks")
+                            "●SUPPORT●", url="https://t.me/groupdc")
                     ]
                 ]
             ),
@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "●SOURCE CODE●", url="https://github.com/selfie-bd/Auto-Filter-Bot")
+                            "●SOURCE CODE●", url="https://github.com/selfie-bd/Auto-Filter-Bot-1")
                     ]
                 ]
             ),
